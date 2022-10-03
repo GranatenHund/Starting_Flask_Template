@@ -9,7 +9,7 @@ Steps:
 3. Try the URLs provided inside the program.
 
 Example:
-"http://localhost:5000/" as default prints the "Helloword".
+"http://localhost:5000/" as default prints "Hello World".
 
 
 
